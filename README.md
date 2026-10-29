@@ -2,6 +2,8 @@
 
 Desarrollo proyectos web con **C#/.NET y React**, con interés en el diseño de APIs, las aplicaciones completas y la documentación técnica.
 
+**[Ver mi portfolio](https://agustin-vallante.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/agustin-vallante/)
+
 ## Proyectos destacados
 
 - **[AgroFlow](https://github.com/agustinvallante/AgroFlow)** — Proyecto académico en desarrollo para coordinar turnos y operaciones logísticas de la zafra azucarera. Incluye especificaciones, reglas de negocio y una arquitectura prevista con API .NET y frontend web.
